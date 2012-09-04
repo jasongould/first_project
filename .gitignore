@@ -16,3 +16,4 @@
 
 # Ignore RubyMine files
 .idea/*.xml
+.idea/workspace.xml
